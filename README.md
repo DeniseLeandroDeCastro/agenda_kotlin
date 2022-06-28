@@ -12,5 +12,5 @@ App que ajuda bastante no aprendizado da programação para Android. Funcionalid
 - ``Material-Design``
 
 <div align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge" width="150" hight="150"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </div>
