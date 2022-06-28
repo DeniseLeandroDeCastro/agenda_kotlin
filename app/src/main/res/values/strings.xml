@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda Kotlin</string>
+    <string name="edt_nome">Nome</string>
+    <string name="edt_telefone">Telefone</string>
+    <string name="edt_email">Email</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>
