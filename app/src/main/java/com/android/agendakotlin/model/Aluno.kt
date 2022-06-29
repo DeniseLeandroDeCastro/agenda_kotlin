@@ -1,6 +1,11 @@
 package com.android.agendakotlin.model
 
 class Aluno(
-    val nome: String,
-    val telefone: String,
-    val email: String)
+    private val nome: String,
+    private val telefone: String,
+    private val email: String) {
+
+    override fun toString(): String {
+        return "$nome, Tel.: $telefone, Email: $email"
+    }
+}
