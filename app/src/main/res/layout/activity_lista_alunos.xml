@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background_verde_claro"
     android:padding="16dp"
     tools:context=".ui.activity.ListaAlunosActivity">
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/activity_lista_alunos_fab_novo_aluno"
+        android:backgroundTint="@color/primary"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
@@ -21,6 +23,7 @@
 
     <ListView
         android:id="@+id/activity_lista_alunos_list_view"
+        android:background="@color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </RelativeLayout>
